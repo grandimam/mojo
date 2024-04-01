@@ -40,7 +40,7 @@ or the standalone Mojo SDK:
 - [Get the Mojo SDK](https://docs.modular.com/mojo/manual/get-started/)
 
 Then follow the docs to [write your first Mojo
-program](https://docs.modular.com/mojo/manual/get-started/hello-world).
+program](https://docs.modular.com/mojo/docs/manual/get-started/hello-world).
 
 ### Latest Nightly
 
